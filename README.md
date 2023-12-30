@@ -22,7 +22,7 @@ I am actively seeking opportunities to collaborate on Full Stack Web Development
 
 📫 How to Reach Me
 
-You can connect with me through GitHub or reach out via email [contact.kr.aman@gmail.com]. I'm always open to discussions, collaborations, and sharing insights within the tech community.
+You can connect with me through GitHub. I'm always open to discussions, collaborations, and sharing insights within the tech community.
 
 Let's code, innovate, and build the future together!
 

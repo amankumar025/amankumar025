@@ -7,6 +7,7 @@ Welcome to my GitHub repository, where I dive into the vast world of technology 
 - **Frameworks:** React, Node.js
 - **Tools:** Git, VS Code,
 - **Learning:** Full Stack Web Development
+
 👀 What I'm Into
 
 My interests span a wide range within the tech realm, from delving into various programming languages to staying updated on the latest industry trends. I have a keen passion for coding and enjoy the challenges that come with it.
